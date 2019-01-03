@@ -1,8 +1,8 @@
 # Site settings
 title: Representation Learning on Graphs and Manifolds
 description: 'ICLR 2019 Workshop'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '' #'/jekyll-uno'
+url: 'rlgm.github.io'
+baseurl: '' 
 
 author:
   name: 'Petar Veličković'
