@@ -4,9 +4,11 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-**Submission deadline:** Friday, 22 March 2019 (AoE)
+**Submission deadline:** Friday, 22 March 2019 (23:59 AoE)
 
-**Author notification:** TBD
+**Author notification:** Friday, 5 April 2019
+
+**Camera ready deadline:** Friday, 26 April 2019
 
 **Workshop:** Monday, 6 May 2019
 
