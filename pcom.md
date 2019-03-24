@@ -29,7 +29,7 @@ permalink: /pcom/
 - **Miltiadis Allamanis**, *MSR Cambridge*
 - **Min Jae Song**,	*New York University*
 - **Nick Choma**, *New York University*		
-- **Nicola De Cao**, **University of Amsterdam*
+- **Nicola De Cao**, *University of Amsterdam*
 - **Patrick Fernandes**, *MSR Cambridge*
 - **Pau Riba**, *Computer Vision Center*
 - **Perouz Taslakian**, *Element AI*
