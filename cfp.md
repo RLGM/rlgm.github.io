@@ -8,7 +8,7 @@ permalink: /cfp/
 
 **Author notification:** Friday, 5 April 2019
 
-**Camera ready deadline:** Friday, 29 April 2019 (23:59 AoE)
+**Camera ready deadline:** Monday, 29 April 2019 (23:59 AoE)
 
 **Workshop:** Monday, 6 May 2019
 
