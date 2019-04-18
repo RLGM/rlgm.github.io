@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Invited Speakers and Panelists
+title: Speakers
 permalink: /speakers/
 ---
 
-### Speakers
 - [**Michael Bronstein**](https://inf.usi.ch/bronstein), *Imperial College London/University of Lugano/Intel Perceptual Computing*
 - [**Taco Cohen**](http://ta.co.nl), *Qualcomm AI Research*
 - [**Sanja Fidler**](https://www.cs.utoronto.ca/~fidler/), *University of Toronto/NVIDIA*
