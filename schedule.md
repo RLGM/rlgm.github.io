@@ -21,7 +21,7 @@ permalink: /schedule/
 2:30--3:15PM: *Break for ICLR Keynote*
 
 3:15--4:15PM: **Contributed talks**:
-- Matthias Fey and Jan Lenssen: *"Fast Graph Representation Learning with PyTorch Geometric"*
+- Matthias Fey and Jan E. Lenssen: *"Fast Graph Representation Learning with PyTorch Geometric"*
 - Sebastian Jaszczur, Michał Łuszczyk and Henryk Michalewsk: *"Neural heuristics for SAT solving"*
 - Boris Knyazev, Graham Taylor and Mohamed Amer: *"Understanding attention in graph neural networks"*
 
