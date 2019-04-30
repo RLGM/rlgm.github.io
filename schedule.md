@@ -23,7 +23,7 @@ permalink: /schedule/
 3:15--4:15PM: **Contributed talks**:
 - Matthias Fey and Jan Lenssen: *"Fast Graph Representation Learning with PyTorch Geometric"*
 - Sebastian Jaszczur, Michał Łuszczyk and Henryk Michalewsk: *"Neural heuristics for SAT solving"*
-- Boris Knyazev, Graham Taylor, and Mohamed Amer: *"Understanding attention in graph neural networks"*
+- Boris Knyazev, Graham Taylor and Mohamed Amer: *"Understanding attention in graph neural networks"*
 
 4:15--5:15PM: **Poster Session 2** / *Coffee Break*
 
