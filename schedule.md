@@ -12,9 +12,7 @@ permalink: /schedule/
 
 11:30AM--12:00PM: **Invited talk**: *Le Song*
 
-12:00--12:30PM: **Invited talk**: *Sanja Fidler*
-
-12:30--1:30PM: *Lunch*
+12:00--1:30PM: *Lunch*
 
 1:30--2:00PM: **Invited talk**: *Jure Leskovec*
 
