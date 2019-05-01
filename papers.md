@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accepted papers
+title: Accepted Papers
 permalink: /papers/
 ---
 
