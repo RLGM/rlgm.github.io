@@ -56,6 +56,6 @@ permalink: /papers/
 * [**SegTree Transformer: Iterative Refinement of Hierarchical Features**](/papers/67.pdf). *Zihao Ye, Qipeng Guo, Quan Gan and Zheng Zhang*
 * [**Recurrent Event Network for Reasoning over Temporal Knowledge Graphs**](/papers/69.pdf). *Woojeong Jin, Changlin Zhang, Pedro Szekely and Xiang Ren*
 * [**Graph-based Knowledge Tracing: Modeling Student Proficiency Using Graph Neural Network**](/papers/70.pdf). *Hiromi Nakagawa, Yusuke Iwasawa and Yutaka Matsuo*
-* [**DeepSphere: a graph-based spherical CNN with approximate equivariance**](/papers/71,pdf). *Michaël Defferrard, Nathanaël Perraudin, Tomasz Kacprzak and Raphaël Sgier*
+* [**DeepSphere: a graph-based spherical CNN with approximate equivariance**](/papers/71.pdf). *Michaël Defferrard, Nathanaël Perraudin, Tomasz Kacprzak and Raphaël Sgier*
 * [**Structural Node Embeddings in Graphs via Anonymous Walks**](/papers/72.pdf). *Alfredo De la Fuente and Maxim Panov*
 * [**Unsupervised Pre-training of Graph Convolutional Neural Networks**](/papers/73.pdf). *Ziniu Hu, Changjun Fan, Ting Chen, Kai-Wei Chang and Yizhou Sun*
