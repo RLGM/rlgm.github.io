@@ -8,7 +8,7 @@ permalink: /schedule/
 
 10:00--10:30AM: **Invited talk**: *Michael Bronstein*
 
-10:30--11:30AM: **Poster Session 1** / *Coffee Break*
+10:30--11:30AM: **Poster Session 1** (Paper ID > 40) / *Coffee Break*
 
 11:30AM--12:00PM: **Invited talk**: *Le Song*
 
@@ -25,7 +25,7 @@ permalink: /schedule/
 - Sebastian Jaszczur, Michał Łuszczyk and Henryk Michalewski: *"Neural heuristics for SAT solving"*
 - Boris Knyazev, Graham W. Taylor and Mohamed R. Amer: *"Understanding attention in graph neural networks"*
 
-4:15--5:15PM: **Poster Session 2** / *Coffee Break*
+4:15--5:15PM: **Poster Session 2** (Paper ID < 40) / *Coffee Break*
 
 5:15--5:45PM: **Invited talk**: *Taco Cohen*
 
