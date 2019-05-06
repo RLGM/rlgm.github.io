@@ -27,7 +27,7 @@ permalink: /papers/
 * [**Supervised Learning on Relational Databases with Graph Neural Networks**](/papers/55.pdf). *Milan Cvitkovic*
 * [**Clique Pooling for Graph Classification**](/papers/56.pdf). *Enxhell Luzhnica\*, Ben Day\* and Pietro Liò*
 * [**Comparing and Detecting Adversarial Attacks for Graph Deep Learning**](/papers/57.pdf). *Yingxue Zhang\*, Sakif Hossain Khan\* and Mark Coates*
-* [**SAGE: Scalable Attributed Graph Embeddings for Graph Classification**](/papers/58.pdf). *Lingfei Wu, Zhen Zhang, Fangli Xu, Liang Zhao and Arye Nehorai*
+* [**SAGE: Scalable Attributed Graph Embeddings for Graph Classification**](/papers/58.pdf). *Lingfei Wu\*, Zhen Zhang\*, Fangli Xu, Liang Zhao and Arye Nehorai*
 * [**A Statistical Characterization of Attentions in Graph Neural Networks**](/papers/62.pdf). *Mufei Li, Hao Zhang, Xingjian Shi, Minjie Wang and Zheng Zhang*
 * [**Graph Feature Networks**](/papers/63.pdf). *Ting Chen, Song Bian and Yizhou Sun*
 * [**Bayesian Graph Convolutional Neural Networks using Non-parametric Graph Learning**](/papers/64.pdf). *Soumyasundar Pal, Florence Regol and Mark Coates*
